@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Jingnan Zhang
+title: Heng Zhu
 
 # Full name (for SEO)
-first_name: Jingnan
-last_name: Zhang
+first_name: Heng
+last_name: Zhu
 
 # Status emoji
 status:
-  icon: 🏖️
+  icon: 🤓
 
 # Is this the primary user of the site?
 superuser: true
@@ -17,62 +17,55 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Researcher
+role: PhD
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Huazhong Agricultural University
-    url: https://en.hzau.edu.cn/
+  - name: Chalmers University of Technology
+    url: https://www.chalmers.se/en/persons/hengz/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:jingnan.zhang801@outlook.com'
+    url: 'mailto:heng.zhu@chalmers.se'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/jnzhangfoodscience
+    url: https://github.com/Heng265
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/jingnan-zhang/
+    url: https://www.linkedin.com/in/heng-zhu-a118451b2/?locale=en_US
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=UF9ZlroAAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=YNTjukgAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-4865-5212
+    url: https://orcid.org/0000-0001-5985-9387
 
 interests:
-  - Computational food mechanics
-  - AI in food science & technology
-  - Plant-based meat analogs
-  - Soft matter physics
+  - FSI
+  - CFD
+  - Wind energy
+  - Nan
 
 education:
-  - area: PhD Food and Nutrition Science
+  - area: PhD Shipping and Marine Technology
     institution: Chalmers University of Technology (Sweden)
-    date_start: 2019-05-16
-    date_end: 2023-06-14
-  - area: MSc Food Technology
-    institution: Wageningen University (Netherlands)
-    date_start: 2016-08-23
-    date_end: 2018-06-18
-  - area: BEng Food Science and Engineering
-    institution: China Agricultural University (China)
-    date_start: 2012-09-01
-    date_end: 2016-06-16
+    date_start: 2021-03-24
+    date_end: 2024-12-16
+  - area: MSc Naval Architecture and Ocean Engineering
+    institution: Chalmers University of Technology (Sweden)
+    date_start: 2018-08-23
+    date_end: 2020-11-09
+  - area: BEng Naval Architecture and Ocean Engineering
+    institution: Shanghai Jiao Tong University (China)
+    date_start: 2014-09-01
+    date_end: 2018-06-16
 
 work:
-  - position: Researcher
-    company_name: Huazhong Agricultural University 
-    company_url: https://en.hzau.edu.cn/
-    company_logo: media/hzau_logo.svg
-    date_start: 2024-04-10
-    date_end: null
-
-  - position: Postdoctoral Researcher
+  - position: PhD
     company_name: Chalmers University of Technology 
-    company_url: https://www.chalmers.se/en/
+    company_url: https://research.chalmers.se/person/hengz
     company_logo: media/chalmers_logo.svg
-    date_start: 2023-06-15
-    date_end: 2024-04-09
+    date_start: 2024-12-17
+    date_end: null
       
 
 # Awards.
@@ -104,5 +97,4 @@ awards:
 
 ## About Me
 
-Jingnan Zhang is a researcher in Food Science and Technology, specializing in computational approaches rooted in soft matter physics to advance plant-based meat analogs. 
-Her work also explores the valorization of food by-products, with a focus on promoting sustainable and resource-efficient innovations in the food industry.
+Heng Zhu is a researcher in Marine Technology, focusing on fluid-solid interaction analysis applied to wind-assisted propulsion.. 
