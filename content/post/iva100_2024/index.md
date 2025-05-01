@@ -12,9 +12,7 @@ tags:
 featured: true
 ---
 🌊 **Excellent news!** 🌬️🚢  
-I'm thrilled to share that our project,
-
-**[Wind-Assisted Ship Propulsion for Commercial Vessels](https://www.iva.se/en/what-iva-does/distinctions/ivas-100-lista-eng/wind-assisted-ship-propulsion-for-commercial-vessels/)**, has been featured on **[IVA’s 100-list](https://www.iva.se/en/what-iva-does/distinctions/ivas-100-lista-eng/)**!
+I'm thrilled to share that our project, **[Wind-Assisted Ship Propulsion for Commercial Vessels](https://www.iva.se/en/what-iva-does/distinctions/ivas-100-lista-eng/wind-assisted-ship-propulsion-for-commercial-vessels/)**, has been featured on **[IVA’s 100-list](https://www.iva.se/en/what-iva-does/distinctions/ivas-100-lista-eng/)**!
 
 Shipping handles 90% of global trade and contributes around 3% to global greenhouse gas emissions. Together with Jonas Ringsberg and Huadong Yao from the Division of Marine Technology at Chalmers University of Technology, and in collaboration with Bengt Ramne and Fabian Thies, we have developed an innovative wind-assisted propulsion system for commercial vessels.
 
