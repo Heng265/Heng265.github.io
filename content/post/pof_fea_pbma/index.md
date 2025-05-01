@@ -6,10 +6,8 @@ authors:
   - admin
 tags:
   - plant-based meat
-  - finite element analysis
   - rheology
-  - food soft matter
-  - computational modeling
+  - computationalfoodmechanics
   - publication
 featured: true
 image:

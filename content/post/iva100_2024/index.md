@@ -6,12 +6,9 @@ authors:
   - admin
 tags:
   - windpower
-  - propulsion
-  - aerodynamics
   - marinetechnology
-  - GHGreduction
-  - innovation
   - sustainableshipping
+  - award
 featured: true
 ---
 🌊 **Excellent news!** 🌬️🚢  
