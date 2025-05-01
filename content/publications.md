@@ -22,7 +22,7 @@ sections:
         2. **Zhu, H.**, Yao, H.-D., & Ringsberg, J. W. (2024). Unsteady RANS and IDDES studies on a telescopic crescent-shaped wingsail. *Ships and Offshore Structures*. 🔗 [Read online](https://doi.org/10.1080/17445302.2023.2256601)
         3. **Zhu, H.**, Yao, H.-D., Thies, F., Ringsberg, J. W., & Ramne, B. (2023). Propulsive performance of a rigid wingsail with crescent-shaped profiles. *Ocean Engineering*. [Read online](https://doi.org/10.1016/j.oceaneng.2023.115349)
                 
-        📄 ** Conference papers**: 
+        📄 **Conference papers**: 
         1. 	van Reen, S., **Zhu, H.**, Lin, J., Niu, J., Sharpe, P., & Yao, H.-D. (2025). Aerodynamic optimization of in-line and parallel layouts for symmetric cambered wingsail installation. *Proceedings of the ASME 2025 44th International Conference on Ocean, Offshore and Arctic Engineering (OMAE 2024)*, June 22 – 27, Vancouver, British Columbia, Canada.
         2.	**Zhu, H.**, Chernoray, V., Ringsberg, J. W., Yao, H.-D., & Ramne, B. (2024). Fluid-structure interaction analysis of crescent-shaped wingsails. *Proceedings of the ASME 2024 43rd International Conference on Ocean, Offshore and Arctic Engineering (OMAE 2024)*, June 9 – 14, Singapore, Singapore. 🔗 [Read online](https://doi.org/10.1115/OMAE2024-125739)
         3. **Zhu, H.**, Thies, F., Ringsberg, J. W., & Ramne, B. (2023). Development and performance analysis of a crescent-type sail for WASP applications. *Proceedings of the International Academic Conference on Shipping, Sustainability & Solutions 2023 (SSS 2023)*, March 2 – 3, Hamburg, Germany.
